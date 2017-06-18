@@ -1,2 +1,2 @@
 # Eskuvoi-weboldal
-Esküvői weboldal minta
+Esküvői weboldal (készült HTML, CSS használatával)
